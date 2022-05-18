@@ -23,7 +23,6 @@ body {
 
 nav {
     width: 960px;
-    //    border:1px solid grey;
     margin: 5px;
     margin-bottom: 15px;
     background-color: white;
@@ -31,15 +30,11 @@ nav {
 
 header {
     width: 960px;
-    //margin:5px;
 }
 
 footer {
-    //    font-size:95%;
     width: 960px;
     color: white;
-    //padding:8px;
-    //  background-color:#004015;
     background-color: darkgreen;
     margin: 5px;
 }
