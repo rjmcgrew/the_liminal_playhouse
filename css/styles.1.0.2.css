@@ -3,119 +3,140 @@
 }
 
 div.centered {
-    width:960px;
+    width: 960px;
     text-align: center;
 }
+
 body {
-    font-family:"Lora", serif;
-    font-size:1em;
-    width:960px;
+    font-family: "Lora", serif;
+    font-size: 1em;
+    width: 960px;
 }
+
 .save {
-    width:960px;
-    border:1px solid grey;
-    margin:5px;margin-bottom:15px;
-    background-color:white;
+    width: 960px;
+    border: 1px solid grey;
+    margin: 5px;
+    margin-bottom: 15px;
+    background-color: white;
 }
+
 nav {
-    width:960px;
-//    border:1px solid grey;
-    margin:5px;margin-bottom:15px;
-    background-color:white;
+    width: 960px;
+    //    border:1px solid grey;
+    margin: 5px;
+    margin-bottom: 15px;
+    background-color: white;
 }
+
 header {
-    width:960px;
+    width: 960px;
     //margin:5px;
 }
+
 footer {
-//    font-size:95%;
-    width:960px;
-    color:white;
+    //    font-size:95%;
+    width: 960px;
+    color: white;
     //padding:8px;
-  //  background-color:#004015;
-    background-color:darkgreen;
-    margin:5px;
+    //  background-color:#004015;
+    background-color: darkgreen;
+    margin: 5px;
 }
+
 .show {
-   width:960px;
-   margin:5px;
+    width: 960px;
+    margin: 5px;
 }
+
 nav ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: darkgreen;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkgreen;
 }
+
 nav ul li {
-	float: left;
+    float: left;
 }
+
 nav ul li a {
-	display: block;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	color: white;
-	display: block;
-	width: 125px;
-}
-nav ul li a:hover {
-	background-color:white;
-	color:darkgreen;
-}
-h1 {
-    color:darkgreen;
-}
-.icon {
-    width:30px;
-    height:30px;
-}
-.logo {
-    background-color:white;
-}
-.info {
-    margin:5%;
-}
-#map {
-    color:white;
-}
-img.production {
-    margin:1em 0 1em 0;
-    float:right;
-}
-img.production-left-float {
-    margin:1em 1em 1em 0;
-    float:left;
-}
-div.season {
-    width:960px;
+    display: block;
     text-align: center;
-    font-size:2em;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    width: 125px;
+}
+
+nav ul li a:hover {
+    background-color: white;
+    color: darkgreen;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
+
+.logo {
+    background-color: white;
+}
+
+.info {
+    margin: 5%;
+}
+
+#map {
+    color: white;
+}
+
+img.production {
+    margin: 1em 0 1em 0;
+    float: right;
+}
+
+img.production-left-float {
+    margin: 1em 1em 1em 0;
+    float: left;
+}
+
+div.season {
+    width: 960px;
+    text-align: center;
+    font-size: 2em;
 }
 
 div.playdates {
-    width:960px;
+    width: 960px;
     text-align: center;
-    font-size:1.75em;
+    font-size: 1.75em;
 }
 
 div.playtitle {
-    width:960px;
+    width: 960px;
     text-align: center;
-    font-size:1.75em;
-    color:darkgreen
+    font-size: 1.75em;
+    color: darkgreen
 }
 
 
 div.playwright {
-    width:960px;
+    width: 960px;
     text-align: center;
-    font-size:1.5em;
+    font-size: 1.5em;
 }
+
 div.playdirector {
-    width:960px;
+    width: 960px;
     text-align: center;
-    font-size:1.25em;
+    font-size: 1.25em;
 }
 
 img.logo {
@@ -125,19 +146,21 @@ img.logo {
     width: 150px;
     padding: 30px;
 }
+
 div.synopsis {
-    width:480px;
+    width: 480px;
     text-align: center;
-    font-size:1em;
+    font-size: 1em;
     font-style: oblique;
-    margin:10px 240px 10px 240px;
+    margin: 10px 240px 10px 240px;
 }
+
 div.continue {
-    width:480px;
+    width: 480px;
     text-align: center;
-    font-size:1.25em;
+    font-size: 1.25em;
     font-style: oblique;
-    margin:10px 240px 10px 240px;
+    margin: 10px 240px 10px 240px;
 }
 
 .column {
@@ -158,4 +181,3 @@ div.continue {
     display: table;
     clear: both;
 }
-
